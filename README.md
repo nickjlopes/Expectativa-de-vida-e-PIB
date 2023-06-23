@@ -9,4 +9,3 @@ Ao fim desse projeto, pretendemos responder as seguintes perguntas:
 - A expectativa de vida cresceu com o tempo nos países?
 - O PIB cresceu com o tempo nos países?
 - Existe uma correlação entre a expectativa de vida e o PIB?
-- Fontes dos dados
